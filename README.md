@@ -78,5 +78,14 @@ In this mini Project, I will create a step-by-step project to simulate the workf
 
 ![Add the content, staged](./Img/git_add_content_stages.png)
 
+- Git add Tom's changes
+  ![git add index](./Img/update_git_add.png)
+
+
+
+
+
+
+
 
 
