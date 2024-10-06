@@ -4,7 +4,7 @@ In this mini Project, I will create a step-by-step project to simulate the workf
 #### 1. Install Git:
 - Visit the official Git Webisite (https://git-scm.com/downloads) and download the version of Git for your operating system. Follow the installation instruction.
 
-![Git-URL](./Img/git%20web.png)
+![Git-URL](./Img/git_%20web.png)
 
 #### 2. Create a GitHub Repository
 
@@ -12,14 +12,14 @@ In this mini Project, I will create a step-by-step project to simulate the workf
    
 - Click the "+" icon in the top-right corner and select "New repository."
 
-![New Repository](./Img/New%20Repos.png)
+![New Repository](./Img/New_Repos.png)
 
 - Name your repository (HOL-Startup-Website) and initialize it with a README file.
   
-![Name and README.md File](./Img/Repos%20Name.png)
+![Name and README.md File](./Img/Repos_Name.png)
 - "Create repository"
   
-  ![Create Repository](./Img/Create%20repos.png)
+  ![Create Repository](./Img/Create_%20repos.png)
 
   #### 3. Clone the Repository
 
@@ -30,7 +30,11 @@ In this mini Project, I will create a step-by-step project to simulate the workf
 
 - Open your Git bash terminal or command Prompt
   
-- Create a folder named "DAREY.IO-WORK-PROJECT" related work
+- Create a folder named "DAREY.IO_PROJECTS related work
 
-- Change directory into the "DAREY.IO-WORK-PROJECT"
-- Clone (Download) the repository from using  
+- Change directory into the "DAREY.IO_PROJECT"
+  
+- Clone (Download) the repository from using 
+
+###### Git clone [Past the URL copied from GitHub]
+
