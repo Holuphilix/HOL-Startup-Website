@@ -1,6 +1,9 @@
 # Basic Git Commands
 
 In this mini Project, I will create a step-by-step project to simulate the workflow of Tom and Jerry using Git and GitHub. This hands-on project will include installation of Git, setting up a GitHub respository, cloning the repository, creating branches, making changes, and merging those changes back into the main branch
+
+### Part 1: Setup and Intial Configuration
+
 #### 1. Install Git:
 - Visit the official Git Webisite (https://git-scm.com/downloads) and download the version of Git for your operating system. Follow the installation instruction.
 
@@ -37,4 +40,43 @@ In this mini Project, I will create a step-by-step project to simulate the workf
 - Clone (Download) the repository from using 
 
 ###### Git clone [Past the URL copied from GitHub]
+
+![Git cloned page](./Img/github_cloned.png)
+
+#### Part 1
+
+- Navigate to HOL-Startup-Website
+- Create a empty file "index.html"
+
+![Navigate to HOL-Startup and create file](./Img/Navigate_create_file.png)
+
+
+- Add the content "This is the Admin creating an index.html file for jerry
+- Check changes has not been staged
+- Git add index.html
+
+![Git status, add](./Img/git_add.png)
+
+- Commit changes 
+- Push main branch to Github
+  
+![commit and Push main](./Img/Git_commit_push.png)
+
+### Part 2: Simulating Tom and Jerry's Work
+
+1. Tom's Work
+- Navigate to the project directory you just cloned
+- Git branch
+- Git checkout -b update-navigation 
+
+![Git branch, checkout](./Img/new_branch.png)
+
+- Add the content below
+- Check changes has not been staged
+- Status Tom's changes
+- Confirm changes have been stagged for commit.
+
+![Add the content, staged](./Img/git_add_content_stages.png)
+
+
 
