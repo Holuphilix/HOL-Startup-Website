@@ -38,3 +38,6 @@ In this mini Project, I will create a step-by-step project to simulate the workf
 
 ###### Git clone [Past the URL copied from GitHub]
 
+1. Jerry's Work:
+- Switch Back to the Main Branch:
+- 
