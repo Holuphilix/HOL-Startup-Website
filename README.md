@@ -109,5 +109,12 @@ After completing Tom's workflow, you will now simulate jerry's contribution to t
 - Open index.html and Add contact Information: Make your changes to the index.html file by add contact Information. This simulates jerry's task.
 - Stage Jerry's changes:
 - Commit Jerry's changes:
+
+![New,add,stage,commit](./Img/git_add_content_stages.png)
+
+
 - Push Jerry's Branch to GitHub:
   
+![push](./Img/push_add_info.png)
+
+This command uploads Jerry's branch to the Github respository, making it available for review and merging into the main project.
