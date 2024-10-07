@@ -93,10 +93,6 @@ After completing Tom's workflow, you will now simulate jerry's contribution to t
 - make changes, and then
 - stage, commit, and push these changes to GitHub.
 
-1. Jerry's Work
-   
-- Switch Back to the Main Branch:
-
 
 
 
