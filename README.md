@@ -81,9 +81,21 @@ In this mini Project, I will create a step-by-step project to simulate the workf
 - Git add Tom's changes
   ![git add index](./Img/update_git_add.png)
 
+- Commit Tom's changes
+- Git push origin to GitHub
 
+![commit and push](./Img/Git_commit_push.png)
 
+After completing Tom's workflow, you will now simulate jerry's contribution to the project. To do this, you'll
 
+- switch back to the main branch 
+- create a new branch for jerry
+- make changes, and then
+- stage, commit, and push these changes to GitHub.
+
+1. Jerry's Work
+   
+- Switch Back to the Main Branch:
 
 
 
