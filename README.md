@@ -103,4 +103,11 @@ After completing Tom's workflow, you will now simulate jerry's contribution to t
 
 1. Jerry's Work:
 - Switch Back to the Main Branch:
-- 
+![switch to main branch](./Img/change%20branch.png)
+
+- Create a New Branch for Jerry's Work
+- Open index.html and Add contact Information: Make your changes to the index.html file by add contact Information. This simulates jerry's task.
+- Stage Jerry's changes:
+- Commit Jerry's changes:
+- Push Jerry's Branch to GitHub:
+  
